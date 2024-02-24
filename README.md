@@ -2,19 +2,19 @@
 
 ### Injection Vulnerabilities:
 
-1. **SQL Injection (SQLi):**
+1. **[SQL Injection (SQLi):](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Injection%20Vulnerabilities/SQL%20Injection%20(SQLi).md)**
    - **Description:** SQL Injection is an attack technique where malicious SQL code is inserted into input fields, manipulating the database queries to gain unauthorized access or retrieve sensitive information.
    - **Uses:** Attackers can extract, modify, or delete database records. It can lead to data breaches and compromise the integrity of the application.
 
-2. **Cross-Site Scripting (XSS):**
+2. **[Cross-Site Scripting (XSS):](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Injection%20Vulnerabilities/Cross-Site%20Scripting%20(XSS).md)**
    - **Description:** XSS involves injecting malicious scripts into web pages that are then executed by other users' browsers. It occurs when a web application does not properly validate or sanitize user inputs.
    - **Uses:** Attackers can steal user cookies, session tokens, or other sensitive information, deface websites, or perform phishing attacks.
 
-3. **Cross-Site Request Forgery (CSRF):**
+3. **[Cross-Site Request Forgery (CSRF):](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Injection%20Vulnerabilities/Cross-Site%20Request%20Forgery%20(CSRF).md)**
    - **Description:** CSRF exploits the trust that a website has in a user's browser by making unauthorized requests on behalf of the user without their knowledge.
    - **Uses:** Attackers can perform actions on behalf of the victim, such as changing account settings, initiating transactions, or even performing actions with elevated privileges.
 
-4. **Remote Code Execution (RCE):**
+4. **[Remote Code Execution (RCE):](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Injection%20Vulnerabilities/Remote%20Code%20Execution%20(RCE).md)**
    - **Description:** RCE allows an attacker to execute arbitrary code on a remote server, often gaining full control over the system.
    - **Uses:** Attackers can upload and execute malicious scripts, install backdoors, and compromise the entire server.
 
@@ -22,27 +22,27 @@
    - **Description:** Command injection occurs when an application allows an attacker to execute operating system commands.
    - **Uses:** Attackers can run malicious commands, potentially leading to unauthorized access, data theft, or disruption of services.
 
-6. **XML Injection:**
+6. **[XML Injection:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Injection%20Vulnerabilities/XML%20Injection.md)**
    - **Description:** XML Injection involves injecting malicious content into XML data, leading to unexpected behavior in the parsing process.
    - **Uses:** Attackers can manipulate XML data, potentially causing application errors, disclosure of sensitive information, or even remote code execution.
 
-7. **LDAP Injection:**
+7. **[LDAP Injection:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Injection%20Vulnerabilities/LDAP%20Injection.md)**
    - **Description:** LDAP Injection occurs when untrusted data is inserted into LDAP queries, manipulating the queries and potentially allowing unauthorized access.
    - **Uses:** Attackers can extract, modify, or delete LDAP data, leading to unauthorized access and data exposure.
 
-8. **XPath Injection:**
+8. **[XPath Injection:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Injection%20Vulnerabilities/XPath%20Injection.md)**
    - **Description:** XPath Injection is similar to SQL Injection but involves manipulating XPath queries used for XML data retrieval.
    - **Uses:** Attackers can modify XPath queries, leading to unauthorized access or disclosure of sensitive information.
 
-9. **HTML Injection:**
+9. **[HTML Injection:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Injection%20Vulnerabilities/HTML%20Injection.md)**
    - **Description:** HTML Injection involves injecting malicious HTML code into web pages.
    - **Uses:** Attackers can perform phishing attacks, deface websites, or execute scripts in the context of other users.
 
-10. **Server-Side Includes (SSI) Injection:**
+10. **[Server-Side Includes (SSI) Injection:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Injection%20Vulnerabilities/Server-Side%20Includes%20(SSI)%20Injection.md)**
     - **Description:** SSI Injection occurs when an attacker can manipulate Server-Side Include directives.
     - **Uses:** Attackers can execute arbitrary commands on the server, potentially leading to unauthorized access or data manipulation.
 
-11. **OS Command Injection:**
+11. **[OS Command Injection:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Injection%20Vulnerabilities/OS%20Command%20Injection.md)**
     - **Description:** Similar to Command Injection, OS Command Injection involves executing operating system commands, exploiting vulnerabilities in command execution.
     - **Uses:** Attackers can run malicious commands, potentially leading to unauthorized access, data theft, or disruption of services.
 
@@ -50,7 +50,7 @@
     - **Description:** Blind SQL Injection occurs when an application is vulnerable, but the results of the injection are not directly visible to the attacker.
     - **Uses:** Attackers use techniques to infer information, such as Boolean-based or time-based blind SQL injection, to extract data.
 
-13. **Server-Side Template Injection (SSTI):**
+13. **[Server-Side Template Injection (SSTI):](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Injection%20Vulnerabilities/Server-Side%20Template%20Injection%20(SSTI).md)**
     - **Description:** SSTI occurs when user input is injected into templates processed on the server, leading to the execution of arbitrary code.
     - **Uses:** Attackers can manipulate templates to execute code, potentially gaining unauthorized access or compromising the server.
 
