@@ -46,7 +46,7 @@
     - **Description:** Similar to Command Injection, OS Command Injection involves executing operating system commands, exploiting vulnerabilities in command execution.
     - **Uses:** Attackers can run malicious commands, potentially leading to unauthorized access, data theft, or disruption of services.
 
-12. **Blind SQL Injection:**
+12. **[Blind SQL Injection: ](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Injection%20Vulnerabilities/Blind%20SQL%20Injection.md)**
     - **Description:** Blind SQL Injection occurs when an application is vulnerable, but the results of the injection are not directly visible to the attacker.
     - **Uses:** Attackers use techniques to infer information, such as Boolean-based or time-based blind SQL injection, to extract data.
 
