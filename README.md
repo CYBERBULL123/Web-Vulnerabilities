@@ -110,9 +110,7 @@
     - **Description:** Missing Security Headers involves the absence of HTTP security headers that provide additional protection.
     - **Uses:** Attackers can exploit the absence of security headers to perform various attacks, such as clickjacking or XSS.
 
-27. **Insecure
-
- File Handling:**
+27. **Insecure File Handling:**
     - **Description:** Insecure File Handling occurs when applications do not properly validate or secure file uploads and downloads.
     - **Uses:** Attackers can upload malicious files, leading to remote code execution or unauthorized access to sensitive files.
 
