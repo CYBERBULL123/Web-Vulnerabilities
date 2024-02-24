@@ -18,7 +18,7 @@
    - **Description:** RCE allows an attacker to execute arbitrary code on a remote server, often gaining full control over the system.
    - **Uses:** Attackers can upload and execute malicious scripts, install backdoors, and compromise the entire server.
 
-5. **Command Injection:**
+5. **[Command Injection:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Injection%20Vulnerabilities/Command%20Injection.md)**
    - **Description:** Command injection occurs when an application allows an attacker to execute operating system commands.
    - **Uses:** Attackers can run malicious commands, potentially leading to unauthorized access, data theft, or disruption of services.
 
