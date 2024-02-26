@@ -56,35 +56,35 @@
 
 ### Broken Authentication and Session Management:
 
-14. **Session Fixation:**
+14. **[Session Fixation:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Broken%20Authentication%20and%20Session%20Management/Session%20Fixation.md)**
     - **Description:** Session Fixation is an attack where an attacker sets the session identifier of a user, leading to potential unauthorized access.
     - **Uses:** Attackers can force users to use a session they control, enabling them to impersonate the victim.
 
-15. **Brute Force Attack:**
+15. **[Brute Force Attack:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Broken%20Authentication%20and%20Session%20Management/Brute%20Force%20Attack.md)**
     - **Description:** Brute Force Attack involves systematically trying all possible combinations of usernames and passwords until the correct one is found.
     - **Uses:** Attackers can gain unauthorized access to accounts by trying multiple password combinations.
 
-16. **Session Hijacking:**
+16. **[Session Hijacking:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Broken%20Authentication%20and%20Session%20Management/Session%20Hijacking.md)**
     - **Description:** Session Hijacking occurs when an attacker intercepts or steals a user's session token.
     - **Uses:** Attackers can impersonate the victim, gaining unauthorized access to their account.
 
-17. **Password Cracking:**
+17. **[Password Cracking:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Broken%20Authentication%20and%20Session%20Management/Password%20Cracking.md)**
     - **Description:** Password Cracking involves using various techniques to discover a user's password.
     - **Uses:** Attackers can gain unauthorized access to accounts by decrypting or discovering the user's password.
 
-18. **Weak Password Storage:**
+18. **[Weak Password Storage:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Broken%20Authentication%20and%20Session%20Management/Weak%20Password%20Storage.md)**
     - **Description:** Weak Password Storage occurs when passwords are stored in an insecure manner, such as plain text or with weak encryption.
     - **Uses:** Attackers can easily retrieve and use stored passwords.
 
-19. **Insecure Authentication:**
+19. **[Insecure Authentication:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Broken%20Authentication%20and%20Session%20Management/Insecure%20Authentication.md)**
     - **Description:** Insecure Authentication happens when authentication mechanisms are not robust, allowing attackers to bypass authentication.
     - **Uses:** Attackers can gain unauthorized access by exploiting vulnerabilities in the authentication process.
 
-20. **Cookie Theft:**
+20. **[Cookie Theft:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Broken%20Authentication%20and%20Session%20Management/Cookie%20Theft.md)**
     - **Description:** Cookie Theft involves stealing session cookies, giving attackers unauthorized access to a user's session.
     - **Uses:** Attackers can impersonate the victim, gaining access to sensitive information or performing actions on their behalf.
 
-21. **Credential Reuse:**
+21. **[Credential Reuse:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Broken%20Authentication%20and%20Session%20Management/Credential%20Reuse.md)**
     - **Description:** Credential Reuse occurs when users employ the same usernames and passwords across multiple platforms.
     - **Uses:** Attackers can use leaked credentials from one platform to gain unauthorized access to other accounts.
 
