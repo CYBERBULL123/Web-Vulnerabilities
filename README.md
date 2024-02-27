@@ -1,4 +1,4 @@
-# Web-Vulnerabilities
+# Web Vulnerabilities ☠️🕵🏻🔍
 
 ### Injection Vulnerabilities:
 
