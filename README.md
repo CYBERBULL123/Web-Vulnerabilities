@@ -14,7 +14,7 @@
    - **Description:** CSRF exploits the trust that a website has in a user's browser by making unauthorized requests on behalf of the user without their knowledge.
    - **Uses:** Attackers can perform actions on behalf of the victim, such as changing account settings, initiating transactions, or even performing actions with elevated privileges.
 
-4. **[Remote Code Execution (RCE):](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Injection%20Vulnerabilities/Remote%20Code%20Execution%20(RCE).md)**
+4. **[Remote Code Execution (RCE):](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Injection%20Vulnerabilities/Remote%20Code%20Execution.md)**
    - **Description:** RCE allows an attacker to execute arbitrary code on a remote server, often gaining full control over the system.
    - **Uses:** Attackers can upload and execute malicious scripts, install backdoors, and compromise the entire server.
 
