@@ -90,27 +90,27 @@
 
 ### Sensitive Data Exposure:
 
-22. **Inadequate Encryption:**
+22. **[Inadequate Encryption:](**https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Sensitive%20Data%20Exposure/Inadequate%20Encryption.md)
     - **Description:** Inadequate Encryption involves using weak or insufficient encryption methods for sensitive data.
     - **Uses:** Attackers can intercept and decrypt sensitive information, leading to data exposure.
 
-23. **Insecure Direct Object References (IDOR):**
+23. **[Insecure Direct Object References (IDOR):](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Sensitive%20Data%20Exposure/(IDOR)%20Insecure%20Direct%20Object%20References.md)**
     - **Description:** IDOR occurs when an attacker can access objects or data they are not authorized to retrieve.
     - **Uses:** Attackers can access or manipulate sensitive data by exploiting flaws in authorization mechanisms.
 
-24. **Data Leakage:**
+24. **[Data Leakage:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Sensitive%20Data%20Exposure/Data%20Leakage.md)**
     - **Description:** Data Leakage involves the unauthorized disclosure of sensitive information.
     - **Uses:** Attackers can gain access to and leak sensitive data, potentially leading to reputational damage or legal consequences.
 
-25. **Unencrypted Data Storage:**
+25. **[Unencrypted Data Storage:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Sensitive%20Data%20Exposure/Unencrypted%20Data%20Storage.md)**
     - **Description:** Unencrypted Data Storage occurs when sensitive data is stored without proper encryption.
     - **Uses:** Attackers can access and read stored data, leading to unauthorized disclosure.
 
-26. **Missing Security Headers:**
+26. **[Missing Security Headers:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Sensitive%20Data%20Exposure/Missing%20Security%20Headers.md)**
     - **Description:** Missing Security Headers involves the absence of HTTP security headers that provide additional protection.
     - **Uses:** Attackers can exploit the absence of security headers to perform various attacks, such as clickjacking or XSS.
 
-27. **Insecure File Handling:**
+27. **[Insecure File Handling:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Sensitive%20Data%20Exposure/Insecure%20File%20Handling.md)**
     - **Description:** Insecure File Handling occurs when applications do not properly validate or secure file uploads and downloads.
     - **Uses:** Attackers can upload malicious files, leading to remote code execution or unauthorized access to sensitive files.
 
