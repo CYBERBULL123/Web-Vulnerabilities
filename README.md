@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="web.svg" width="250" height="200">
+  <img src="web.svg" width="550" height="250">
   <h1 style="color: #ff5733; font-family: 'Comic Sans MS', cursive, sans-serif;">Web Vulnerabilities ☠️</h1>
 </div>
 
