@@ -90,7 +90,7 @@
 
 ### Sensitive Data Exposure:
 
-22. **[Inadequate Encryption:](**https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Sensitive%20Data%20Exposure/Inadequate%20Encryption.md)
+22. **[Inadequate Encryption:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Sensitive%20Data%20Exposure/Inadequate%20Encryption.md)**
     - **Description:** Inadequate Encryption involves using weak or insufficient encryption methods for sensitive data.
     - **Uses:** Attackers can intercept and decrypt sensitive information, leading to data exposure.
 
