@@ -54,7 +54,7 @@
     - **Description:** Blind SQL Injection occurs when an application is vulnerable, but the results of the injection are not directly visible to the attacker.
     - **Uses:** Attackers use techniques to infer information, such as Boolean-based or time-based blind SQL injection, to extract data.
 
-13. **[Server-Side Template Injection (SSTI):](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Injection%20Vulnerabilities/Server-Side%20Template%20Injection%20(SSTI).md)**
+13. **[Server-Side Template Injection (SSTI):](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Injection%20Vulnerabilities/Server-Side%20Template%20Injection.md)**
     - **Description:** SSTI occurs when user input is injected into templates processed on the server, leading to the execution of arbitrary code.
     - **Uses:** Attackers can manipulate templates to execute code, potentially gaining unauthorized access or compromising the server.
 
