@@ -120,39 +120,39 @@
 
 ### Security Misconfiguration:
 
-28. **Default Passwords:**
+28. **[Default Passwords:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Security%20Misconfiguration/Default%20Passwords.md)**
     - **Description:** Default Passwords are often set by manufacturers or developers and are unchanged in deployed systems.
     - **Uses:** Attackers can easily gain unauthorized access by exploiting unchanged default passwords.
 
-29. **Directory Listing:**
+29. **[Directory Listing:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Security%20Misconfiguration/Directory%20Listing.md)**
     - **Description:** Directory Listing occurs when the contents of a directory are exposed, allowing attackers to navigate and access files.
     - **Uses:** Attackers can discover and access sensitive files, potentially leading to data exposure.
 
-30. **Unprotected API Endpoints:**
+30. **[Unprotected API Endpoints:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Security%20Misconfiguration/Unprotected%20API%20Endpoints.md)**
     - **Description:** Unprotected API Endpoints allow unauthorized access to application functionalities.
     - **Uses:** Attackers can abuse unprotected APIs to retrieve sensitive data or perform actions without proper authentication.
 
-31. **Open Ports and Services:**
+31. **[Open Ports and Services:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Security%20Misconfiguration/Open%20Ports%20and%20Services.md)**
     - **Description:** Open Ports and Services can expose unnecessary network services, increasing the attack surface.
     - **Uses:** Attackers can exploit vulnerabilities in open ports or services to gain unauthorized access.
 
-32. **Improper Access Controls:**
+32. **[Improper Access Controls:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Security%20Misconfiguration/Improper%20Access%20Controls.md)**
     - **Description:** Improper Access Controls occur when users can access functionalities or data they should not be allowed to.
     - **Uses:** Attackers can exploit flaws in access controls to gain unauthorized access to sensitive information or perform unauthorized actions.
 
-33. **Information Disclosure:**
+33. **[Information Disclosure:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Security%20Misconfiguration/Information%20Disclosure.md)**
     - **Description:** Information Disclosure occurs when an application reveals sensitive information to unauthorized users.
     - **Uses:** Attackers can gather information to aid in further attacks or exploit disclosed information.
 
-34. **Unpatched Software:**
+34. **[Unpatched Software:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Security%20Misconfiguration/Unpatched%20Software.md)**
     - **Description:** Unpatched Software refers to running outdated software versions with known vulnerabilities.
     - **Uses:** Attackers can exploit known vulnerabilities to gain unauthorized access or disrupt services.
 
-35. **Misconfigured CORS:**
+35. **[Misconfigured CORS:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Security%20Misconfiguration/Misconfigured%20CORS.md)**
     - **Description:** Misconfigured Cross-Origin Resource Sharing (CORS) settings can lead to unauthorized access to resources.
     - **Uses:** Attackers can perform cross-origin requests and access sensitive data from other domains.
 
-36. **HTTP Security Headers Misconfiguration:**
+36. **[HTTP Security Headers Misconfiguration:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Security%20Misconfiguration/HTTP%20Security%20Headers%20Misconfiguration.md)**
     - **Description:** Misconfiguring HTTP Security Headers can weaken the security posture of a web application.
     - **Uses:** Attackers can exploit the lack of proper security headers to perform various attacks, such as clickjacking or XSS.
 
