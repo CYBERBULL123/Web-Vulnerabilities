@@ -158,51 +158,51 @@
 
 ### XML-Related Vulnerabilities:
 
-37. **XML External Entity (XXE) Injection:**
+37. **[XML External Entity (XXE) Injection:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/XML-Related%20Vulnerabilities/XML%20External%20Entity%20(XXE)%20Injection.md)**
     - **Description:** XXE Injection allows attackers to include external entities in XML documents, potentially leading to disclosure of internal files or denial of service.
     - **Uses:** Attackers can read sensitive files, perform denial of service attacks, or execute arbitrary code.
 
-38. **XML Entity Expansion (XEE):**
+38. **[XML Entity Expansion (XEE):](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/XML-Related%20Vulnerabilities/XML%20Entity%20Expansion%20.md)**
     - **Description:** XEE involves expanding entities in XML documents to consume excessive resources, leading to a denial of service.
     - **Uses:** Attackers can exhaust system resources by expanding entities, causing the application to become unresponsive.
 
-39. **XML Bomb:**
+39. **[XML Bomb:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/XML-Related%20Vulnerabilities/XML%20Bomb.md)**
     - **Description:** An XML Bomb is a malicious XML file designed to overwhelm parsers and consume large amounts of resources.
     - **Uses:** Attackers can use XML Bombs to perform denial of service attacks, causing system or application instability.
 
 ### Broken Access Control:
 
-40. **Inadequate Authorization:**
+40. **[Inadequate Authorization:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Broken%20Access%20Control/Inadequate%20Authorization.md.md)**
     - **Description:** Inadequate Authorization occurs when an application does not properly restrict access to certain functionalities or resources.
     - **Uses:** Attackers can gain unauthorized access to sensitive data or perform actions they are not allowed to.
 
-41. **Privilege Escalation:**
+41. **[Privilege Escalation:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Broken%20Access%20Control/Privilege%20Escalation.md)**
     - **Description:** Privilege Escalation involves gaining higher levels of access than initially granted.
     - **Uses:** Attackers can elevate their privileges, gaining access to sensitive functionalities or data.
 
-42. **Insecure Direct Object References:**
+42. **[Insecure Direct Object References:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Sensitive%20Data%20Exposure/(IDOR)%20Insecure%20Direct%20Object%20References.md)**
     - **Description:** Insecure Direct Object References (IDOR) allow attackers to access or manipulate objects they are not authorized to.
     - **Uses:** Attackers can exploit IDOR to gain unauthorized access to sensitive data or perform unauthorized actions.
 
-43. **Forceful Browsing:**
+43. **[Forceful Browsing:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Broken%20Access%20Control/Forceful%20Browsing.md)**
     - **Description:** Forceful Browsing involves accessing unauthorized parts of an application by guessing or manipulating URLs.
     - **Uses:** Attackers can access sensitive pages or functionalities by bypassing insufficient access controls.
 
-44. **Missing Function-Level Access Control:**
+44. **[Missing Function-Level Access Control:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Broken%20Access%20Control/Missing%20Function-Level%20Access%20Control.md)**
     - **Description:** Missing Function-Level Access Control occurs when access controls are not consistently enforced across different functions.
     - **Uses:** Attackers can exploit the inconsistency to gain unauthorized access to restricted functionalities.
 
 ### Insecure Deserialization:
 
-45. **Remote Code Execution via Deserialization:**
+45. **[Remote Code Execution via Deserialization:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Insecure%20Deserialization/Remote%20Code%20Execution%20via%20Deserialization.md)**
     - **Description:** Insecure Deserialization allows attackers to execute arbitrary code by manipulating serialized data.
     - **Uses:** Attackers can execute malicious code, potentially gaining unauthorized access or causing system compromise.
 
-46. **Data Tampering:**
+46. **[Data Tampering:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Insecure%20Deserialization/Data%20Tampering.md)**
     - **Description:** Data Tampering involves modifying serialized data to manipulate application behavior.
     - **Uses:** Attackers can alter serialized data to change the functionality or gain unauthorized access.
 
-47. **Object Injection:**
+47. **[Object Injection:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Insecure%20Deserialization/Object%20Injection.md)**
     - **Description:** Object Injection occurs when untrusted data is used to instantiate objects, potentially leading to unauthorized code execution.
     - **Uses:** Attackers can manipulate object instantiation, leading to the execution of arbitrary code.
 
