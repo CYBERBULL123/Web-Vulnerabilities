@@ -208,37 +208,37 @@
 
 ### API Security Issues:
 
-48. **Insecure API Endpoints:**
+48. **[Insecure API Endpoints:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/API%20Security%20Issues/Insecure%20API%20Endpoints.md)**
     - **Description:** Insecure API Endpoints lack proper authentication, authorization, or input validation.
     - **Uses:** Attackers can abuse vulnerabilities in API endpoints to access sensitive data or perform unauthorized actions.
 
-49. **API Key Exposure:**
+49. **[API Key Exposure:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/API%20Security%20Issues/API%20Key%20Exposure.md)**
     - **Description:** API Key Exposure occurs when API keys are leaked or improperly secured.
     - **Uses:** Attackers can use exposed API keys to make unauthorized API requests, potentially gaining access to sensitive data or functionalities.
 
-50. **Lack of Rate Limiting:**
+50. **[Lack of Rate Limiting:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/API%20Security%20Issues/Lack%20of%20Rate%20Limiting.md)**
     - **Description:** Lack of Rate Limiting allows attackers to perform brute force or denial of service attacks by making a high volume of requests.
     - **Uses:** Attackers can abuse the absence of rate limiting to perform automated attacks, such as brute force or scraping.
 
-51. **Inadequate Input Validation:**
+51. **[Inadequate Input Validation:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/API%20Security%20Issues/Inadequate%20Input%20Validation.md)**
     - **Description:** Inadequate Input Validation occurs when input from API requests is not properly validated.
     - **Uses:** Attackers can exploit input validation flaws to inject malicious data, potentially leading to various attacks.
 
 ### Insecure Communication:
 
-52. **Man-in-the-Middle (MITM) Attack:**
+52. **[Man-in-the-Middle (MITM) Attack:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Insecure%20Communication/Man-in-the-Middle%20(MITM)%20Attack.md)**
     - **Description:** MITM Attacks involve intercepting and manipulating communication between two parties.
     - **Uses:** Attackers can eavesdrop on communication, modify data, or impersonate one of the parties.
 
-53. **Insufficient Transport Layer Security:**
+53. **[Insufficient Transport Layer Security:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Insecure%20Communication/Insufficient%20Transport%20Layer%20Security.md)**
     - **Description:** Insufficient TLS involves weak or misconfigured encryption protocols.
     - **Uses:** Attackers can intercept or manipulate data transmitted over insecure connections.
 
-54. **Insecure SSL/TLS Configuration:**
+54. **[Insecure SSL/TLS Configuration:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Insecure%20Communication/Insecure%20SSL%20TLS%20Configuration.md)**
     - **Description:** Insecure SSL/TLS Configuration involves using weak cipher suites or outdated protocols.
     - **Uses:** Attackers can exploit vulnerabilities in SSL/TLS to perform attacks, such as POODLE or BEAST.
 
-55. **Insecure Communication Protocols:**
+55. **[Insecure Communication Protocols:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Insecure%20Communication/Insecure%20Communication%20Protocols.md)**
    
 
  - **Description:** Insecure Communication Protocols involve using outdated or insecure communication protocols.
