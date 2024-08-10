@@ -239,52 +239,50 @@
     - **Uses:** Attackers can exploit vulnerabilities in SSL/TLS to perform attacks, such as POODLE or BEAST.
 
 55. **[Insecure Communication Protocols:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Insecure%20Communication/Insecure%20Communication%20Protocols.md)**
-   
-
- - **Description:** Insecure Communication Protocols involve using outdated or insecure communication protocols.
+    - **Description:** Insecure Communication Protocols involve using outdated or insecure communication protocols.
     - **Uses:** Attackers can exploit vulnerabilities in outdated protocols, potentially leading to unauthorized access or data exposure.
 
 ### Client-Side Vulnerabilities:
 
-56. **DOM-based XSS:**
+56. **[DOM-based XSS:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Client-Side%20Vulnerabilities/DOM-based%20XSS.md)**
     - **Description:** DOM-based XSS occurs when client-side scripts manipulate the Document Object Model (DOM) based on untrusted input.
     - **Uses:** Attackers can inject malicious scripts, potentially leading to the theft of sensitive information or session hijacking.
 
-57. **Insecure Cross-Origin Communication:**
+57. **[Insecure Cross-Origin Communication:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Client-Side%20Vulnerabilities/Insecure%20Cross-Origin%20Communication.md)**
     - **Description:** Insecure Cross-Origin Communication involves vulnerabilities in cross-origin communication mechanisms.
     - **Uses:** Attackers can exploit these vulnerabilities to perform various attacks, such as data theft or injection.
 
-58. **Browser Cache Poisoning:**
+58. **[Browser Cache Poisoning:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Client-Side%20Vulnerabilities/Browser%20Cache%20Poisoning.md)**
     - **Description:** Browser Cache Poisoning occurs when an attacker manipulates the contents of a user's cache.
     - **Uses:** Attackers can inject malicious content into the cache, leading to the execution of malicious scripts or unauthorized access.
 
-59. **Clickjacking:**
+59. **[Clickjacking:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Client-Side%20Vulnerabilities/Clickjacking.md)**
     - **Description:** Clickjacking involves tricking users into clicking on a disguised element, leading them to perform unintended actions.
     - **Uses:** Attackers can trick users into clicking on malicious elements, potentially leading to unauthorized actions or disclosure of sensitive information.
 
-60. **HTML5 Security Issues:**
+60. **[HTML5 Security Issues:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Client-Side%20Vulnerabilities/HTML5%20Security%20Issues.md)**
     - **Description:** HTML5 Security Issues involve vulnerabilities specific to the HTML5 standard.
     - **Uses:** Attackers can exploit these vulnerabilities to perform various attacks, such as XSS or data theft.
 
 ### Denial of Service (DoS):
 
-61. **Distributed Denial of Service (DDoS):**
+61. **[Distributed Denial of Service (DDoS):](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Denial%20of%20Service%20(DoS)/Distributed%20Denial%20of%20Service%20DDoS.md)**
     - **Description:** DDoS involves overwhelming a system, service, or network with a flood of traffic from multiple sources.
     - **Uses:** Attackers can disrupt services, causing downtime or making them unavailable to legitimate users.
 
-62. **Application Layer DoS:**
+62. **[Application Layer DoS:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Denial%20of%20Service%20(DoS)/Application%20Layer%20DoS.md)**
     - **Description:** Application Layer DoS attacks target specific applications, exploiting vulnerabilities to overwhelm them.
     - **Uses:** Attackers can exhaust application resources, leading to slowdowns or unresponsiveness.
 
-63. **Resource Exhaustion:**
+63. **[Resource Exhaustion:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Denial%20of%20Service%20(DoS)/Resource%20Exhaustion.md)**
     - **Description:** Resource Exhaustion involves depleting system resources to disrupt normal operation.
     - **Uses:** Attackers can exhaust CPU, memory, or other resources, causing performance degradation or system failure.
 
-64. **Slowloris Attack:**
+64. **[Slowloris Attack:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Denial%20of%20Service%20(DoS)/Slowloris%20Attack.md)**
     - **Description:** Slowloris is a type of DoS attack where the attacker keeps multiple connections open to the target, exhausting resources.
     - **Uses:** Attackers can keep connections open, preventing the server from serving legitimate requests.
 
-65. **XML Denial of Service:**
+65. **[XML Denial of Service:](https://github.com/CYBERBULL123/Web-Vulnerabilities/blob/main/Denial%20of%20Service%20(DoS)/XML%20Denial%20of%20Service.md)**
     - **Description:** XML Denial of Service involves exploiting vulnerabilities in XML parsers to cause resource exhaustion.
     - **Uses:** Attackers can craft XML payloads that, when processed, consume excessive resources, leading to denial of service.
 
